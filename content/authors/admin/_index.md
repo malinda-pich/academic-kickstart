@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a fourth year undergraduate student majoring in History.
+bio: History Major
 
 
 # Social/Academic Networking
