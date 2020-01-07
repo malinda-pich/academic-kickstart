@@ -19,9 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a fourth year student majoring in History. 
-I am currently pursuing an Honours Research Project that documents oral histories of Cambodian Refugees who immigrated to Canada during the late 1970s to 1980s. 
-Some of my hobbies include singing, photography, and learning languages. 
-I am working on becoming fluent in Japanese at the moment.  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
