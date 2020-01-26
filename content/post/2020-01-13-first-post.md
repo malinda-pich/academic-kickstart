@@ -13,8 +13,5 @@ tags:
   - news
   - cultural-heritage-informatics
 ---
-
-# An Idea
-
 It occurred to me ...
 First Devlog Post
