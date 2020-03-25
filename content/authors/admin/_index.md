@@ -30,7 +30,7 @@ education:
   courses:
   - course: Bachelor of Arts Honours History Major
     institution: Carleton University
-    year: 2020
+    year: ""
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
