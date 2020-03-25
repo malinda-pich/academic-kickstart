@@ -13,7 +13,7 @@ slides:
   highlight_style: dracula
 ---
 
-## **WEB ARCHIVES**
+**WEB ARCHIVES**
 
 Malinda Pich
 
