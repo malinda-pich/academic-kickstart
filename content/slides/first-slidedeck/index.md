@@ -66,6 +66,8 @@ Try typing in the URL of a website. You will be able to see a snapshot of that w
 
 I typed in carleton.ca and this is where I was taken after I clicked enter
 
+{{< figure library="true" src="waybackmachine.png" title="Thinking through a data model" lightbox="true" >}}
+
 ---
 
 **THE WAYBACK MACHINE**
