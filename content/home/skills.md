@@ -19,5 +19,11 @@ subtitle = ""
   icon_pack = "fas"
   name = "Research"
   description = ""
+  
+  [[feature]]
+  icon = "tasks"
+  icon_pack = "fas"
+  name = "Event Planning"
+  description = ""
 
 +++
