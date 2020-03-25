@@ -45,6 +45,8 @@ user_groups:
 - Visitors
 ---
 I am a fourth year student majoring in History. I am currently pursuing an Honours Research Project that documents oral histories of Cambodian Refugees who immigrated to Canada during the late 1970s to 1980s. Some of my interests/hobbies include singing, photography and learning new languages. I am working on being fluent in Japanese at the moment. 
-**Education**
+
+# **Education**
+Education:
 - icon: graduation-cap
   icon_pack: fas
