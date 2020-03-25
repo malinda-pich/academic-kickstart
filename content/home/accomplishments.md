@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Japan Foundation and Japan Educational Exchanges and Services"
   organization_url = "https://www.jlpt.jp/e/index.html"
-  title = "JLPT Certificate N5"
+  title = "Japanese Language Proficiency Test Certificate N5"
   url = ""
   certificate_url = ""
   date_start = "2020-01-19"
