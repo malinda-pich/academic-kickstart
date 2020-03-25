@@ -55,6 +55,8 @@ An internet archive that allows its users to view websites that have been captur
 
 [Link to the Wayback Machine](https://web.archive.org/)
 
+This video was found on the Archive-It website. They provide web archiving services for a variety of organizations. 
+
 ---
 
 **THE WAYBACK MACHINE**
