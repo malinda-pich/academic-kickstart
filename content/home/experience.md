@@ -25,6 +25,4 @@ date_format = "Jan 2006"
   date_start = "2019-09"
   date_end = "Present"
   description = """
-  """
-  
-  +++
++++
