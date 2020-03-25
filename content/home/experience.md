@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Carleton University"
   date_start = "2019-09-20"
-  date_end = "Present"
+  date_end = ""
   description = """
   Responsibilities include:
   
