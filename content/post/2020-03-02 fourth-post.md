@@ -14,3 +14,4 @@ tags:
   - cultural-heritage-informatics
 ---
 Meeting with Professor Graham for Next Steps 
+image: 20200302_1106190.jpg
