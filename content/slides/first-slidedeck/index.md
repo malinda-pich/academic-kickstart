@@ -17,7 +17,7 @@ slides:
 
 Malinda Pich
 
-HIST 4806
+HIST 4806 
 
 ---
 
@@ -30,6 +30,15 @@ HIST 4806
 How can a web archive be created?
 
 * WebARChive (WARC) files
+
+---
+
+1. A web archive is a “digital archive” that can include, but is not limited to projects that involve digitizing historical records such as in the article “Archives Strengthening Historical Narratives: Sharing Digital And Linked Data Resources For Broader Reach And Sustainability” where the project centers on making the cultural history of Texas Coastal Bend ranching communities accessible online.
+
+2. An example of a web archive that preserves websites is  the Wayback Machine founded by the Internet Archive which was mentioned in the “Building Community and Tools for Analyzing Web Archives through Datathons” article. I will get into this more in the upcoming slides. 
+
+So how does a web archive get created? 
+By creating web archives using the WARC file format, whole websites including metadata can be preserved in one single file!
 
 ---
 
@@ -85,17 +94,17 @@ The Datathons brought together people from a variety of disciplines. In what way
 
 ---
 
-*Archives Strengthening Historical Narratives: Sharing Digital and Linked Data Resources for Broader Reach and Sustainability
+Archives Strengthening Historical Narratives: Sharing Digital and Linked Data Resources for Broader Reach and Sustainability
 
-This article focuses on the development of a web archive that documents the cultural history of the Texas Coastal Bend ranching communities 
+* This article focuses on the development of a web archive that documents the cultural history of the Texas Coastal Bend ranching communities 
 
-The web archives blends a collection of oral histories, transcriptions and photographs
+* The web archive blends a collection of oral histories, transcriptions and photographs
 
 ---
 
-*Archives Strengthening Historical Narratives: Sharing Digital and Linked Data Resources for Broader Reach and Sustainability
+Archives Strengthening Historical Narratives: Sharing Digital and Linked Data Resources for Broader Reach and Sustainability
 
-This collection was particularly concerned with linking themes together to make everything more accessible: 
+* This collection was particularly concerned with linking themes together to make everything more accessible: 
 
 “To facilitate discovery of the embedded stories found in this historical region, the TCBC has focused on cross-linking related assets with an emphasis on subjects, people, and the sense of place.”
 
