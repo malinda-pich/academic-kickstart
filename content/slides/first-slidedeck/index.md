@@ -110,3 +110,15 @@ Archives Strengthening Historical Narratives: Sharing Digital and Linked Data Re
 
 ---
 
+**DISCUSSION QUESTIONS**
+
+---
+
+**OTHER RESOURCES**
+
+A link to an article from the Social Science Research Council website. The article further outlines the importance of web archiving as a tool and also about the use of web archives in legal situations. 
+
+[On the Importance of Web Archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/)
+
+---
+
