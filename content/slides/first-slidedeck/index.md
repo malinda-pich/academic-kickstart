@@ -35,6 +35,8 @@ How can a web archive be created?
 
 1. A web archive is a “digital archive” that can include, but is not limited to projects that involve digitizing historical records such as in the article “Archives Strengthening Historical Narratives: Sharing Digital And Linked Data Resources For Broader Reach And Sustainability” where the project centers on making the cultural history of Texas Coastal Bend ranching communities accessible online.
 
+---
+
 2. An example of a web archive that preserves websites is  the Wayback Machine founded by the Internet Archive which was mentioned in the “Building Community and Tools for Analyzing Web Archives through Datathons” article. I will get into this more in the upcoming slides. 
 
 So how does a web archive get created? 
@@ -42,7 +44,7 @@ By creating web archives using the WARC file format, whole websites including me
 
 ---
 
-[A Video Explaining Web Archives](https://archive.org/embed/IntroToAIT)
+[Link to a Video Explaining Web Archives](https://archive.org/embed/IntroToAIT)
 
 ---
 
@@ -57,6 +59,10 @@ An internet archive that allows its users to view websites that have been captur
 **THE WAYBACK MACHINE**
 
 Try typing in the URL of a website. You will be able to see a snapshot of that website across time.
+
+---
+
+**THE WAYBACK MACHINE**
 
 I typed in carleton.ca and this is where I was taken after I clicked enter
 
