@@ -25,4 +25,9 @@ date_format = "Jan 2006"
   date_start = "2019-09"
   date_end = "2019-10"
   description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
   """
