@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "CUSA Clubs and Societies Carleton University"
   date_start = "2018-09-01"
-  date_end = "2019-04-31"
+  date_end = "2019-04-30"
   description = """
   """
   
