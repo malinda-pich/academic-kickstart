@@ -20,3 +20,11 @@ date_format = "Jan 2006"
 
 
 +++
+[[experience]]
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
+  description = """
