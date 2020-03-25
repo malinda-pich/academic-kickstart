@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]]
   organization = "Japan Foundation and Japan Educational Exchanges and Services"
-  organization_url = "https://www.coursera.org"
+  organization_url = "https://www.jlpt.jp/e/index.html"
   title = "JLPT Certificate N5"
   url = ""
   certificate_url = ""
