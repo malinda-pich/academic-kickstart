@@ -23,10 +23,13 @@ HIST 4806
 
 **WHAT IS A WEB ARCHIVE?**
 
-{{%/* fragment */%}} 1. It can be a "digital archive" that preserves historical information in a digitized format {{%/* /fragment */%}}
-{{%/* fragment */%}} 2. A web archive can also act as a domain to preserve data kept online (websites) {{%/* /fragment */%}}
-{{%/* fragment */%}} How can a web archive be created? {{%/* /fragment */%}}
-{{%/* fragment */%}} * WebARChive (WARC) files {{%/* /fragment */%}}
+1. It can be a "digital archive" that preserves historical information in a digitized format
+
+2. A web archive can also act as a domain to preserve data kept online (websites)
+
+How can a web archive be created?
+
+* WebARChive (WARC) files
 
 ---
 
@@ -60,7 +63,7 @@ limited to individual readings of single webpages”
 
 **ARTICLE**
 
-Building Community and Tools for Analyzing Web Archives Through Datathons
+*Building Community and Tools for Analyzing Web Archives Through Datathons
 
 * This article talks about the need for studying web archives in order to better understand the social and cultural dimensions associated with the digital age 
 
@@ -68,7 +71,7 @@ Building Community and Tools for Analyzing Web Archives Through Datathons
 
 ---
 
-Building Community and Tools for Analyzing Web Archives Through Datathons 
+*Building Community and Tools for Analyzing Web Archives Through Datathons 
 
 * There were many collaborators from various disciplines involved in the datathon that ranged from individuals in social sciences, to humanities and digital archivists among others.
 
@@ -82,5 +85,19 @@ The Datathons brought together people from a variety of disciplines. In what way
 
 ---
 
+*Archives Strengthening Historical Narratives: Sharing Digital and Linked Data Resources for Broader Reach and Sustainability
 
+This article focuses on the development of a web archive that documents the cultural history of the Texas Coastal Bend ranching communities 
+
+The web archives blends a collection of oral histories, transcriptions and photographs
+
+---
+
+*Archives Strengthening Historical Narratives: Sharing Digital and Linked Data Resources for Broader Reach and Sustainability
+
+This collection was particularly concerned with linking themes together to make everything more accessible: 
+
+“To facilitate discovery of the embedded stories found in this historical region, the TCBC has focused on cross-linking related assets with an emphasis on subjects, people, and the sense of place.”
+
+---
 
