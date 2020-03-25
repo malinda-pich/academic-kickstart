@@ -12,4 +12,4 @@ tags:
   - webarchive
   - news
 ---
-A link to my presentation: http://malinda-pich.netlify.com/slides/first-slidedeck/
+A link to my presentation: 
