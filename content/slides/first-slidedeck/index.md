@@ -40,6 +40,7 @@ How can a web archive be created?
 2. An example of a web archive that preserves websites is  the Wayback Machine founded by the Internet Archive which was mentioned in the “Building Community and Tools for Analyzing Web Archives through Datathons” article. I will get into this more in the upcoming slides. 
 
 So how does a web archive get created? 
+
 By creating web archives using the WARC file format, whole websites including metadata can be preserved in one single file!
 
 ---
