@@ -47,4 +47,14 @@ date_format = "Jan 2006"
   description = """
   """
   
+[[experience]]
+  title = "President and Founder"
+  company = "Carleton University Cosplay Club"
+  company_url = ""
+  location = "CUSA Clubs and Societies Carleton University"
+  date_start = "2014-09-01"
+  date_end = "2016-04-30"
+  description = """
+  """
+  
 +++
