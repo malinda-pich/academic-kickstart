@@ -25,5 +25,11 @@ subtitle = ""
   icon_pack = "fas"
   name = "Event Planning"
   description = ""
-
+  
+  [[feature]]
+  icon = "camera"
+  icon_pack = "fas"
+  name = "Photography"
+  description = ""
+  
 +++
