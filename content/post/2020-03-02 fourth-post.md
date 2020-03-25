@@ -9,8 +9,7 @@ header:
   image: ""
 tags:
   - devlog
-  - archaeology
+  - API
   - news
-  - cultural-heritage-informatics
 ---
 Meeting with Professor Graham for Next Steps 
