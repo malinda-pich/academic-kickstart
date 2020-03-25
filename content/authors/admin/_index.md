@@ -21,15 +21,16 @@ organizations:
 bio: History Major
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Singing
+- Photography
+- Video games 
+- Learning new languages: currently learning Japanese
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: Bachelor of Arts Honours History Major
+    institution: Carleton University
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -54,4 +55,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a fourth year student majoring in History. I am currently pursuing an Honours Research Project that documents oral histories of Cambodian Refugees who immigrated to Canada during the late 1970s to 1980s. Some of my interests/hobbies include singing, photography and learning new languages. I am working on being fluent in Japanese at the moment. 
+I am a fourth year student majoring in History. I am currently pursuing an Honours Research Project that documents oral histories of Cambodian Refugees who immigrated to Canada during the late 1970s to 1980s.
