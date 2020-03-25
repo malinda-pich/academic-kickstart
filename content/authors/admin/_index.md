@@ -20,6 +20,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: History Major
 
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
+
+education:
+  courses:
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
