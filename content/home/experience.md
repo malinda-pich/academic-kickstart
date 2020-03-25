@@ -25,20 +25,16 @@ date_format = "Jan 2006"
   date_start = "2019-09-20"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Assistant"
+  company = "Local Engagement Refugee Research Network"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Carleton University"
+  date_start = "2019-09-01"
+  date_end = "2019-10-31"
+  description = """
+  """
 
 +++
