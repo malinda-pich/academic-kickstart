@@ -32,6 +32,6 @@ How can a web archive be created?
 
 ---
 
-[Link](https://archive.org/embed/IntroToAIT)
+[A Video Explaining Web Archives](https://archive.org/embed/IntroToAIT)
 
 ---
