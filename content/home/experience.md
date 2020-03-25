@@ -26,16 +26,7 @@ date_format = "Jan 2006"
   date_end = "Present"
   description = """
   """
-  
-  [[experience]]
-  title = "Research Assistant"
-  company = "Local Engagement Refugee Research Network"
-  company_url = ""
-  location = "Carleton University"
-  date_start = "2019-09"
-  date_end = "2019-10"
-  description = """
-  """
+
   
 +++
 
