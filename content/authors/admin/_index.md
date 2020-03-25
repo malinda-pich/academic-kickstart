@@ -23,7 +23,8 @@ bio: History Major
 interests:
 - Singing
 - Photography
-- Video games 
+- Video games
+- Cosplay
 - Learning new languages
 
 education:
