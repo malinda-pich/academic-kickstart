@@ -17,6 +17,14 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
+[[item]]
+  organization = "Japan Foundation and Japan Educational Exchanges and Services"
+  organization_url = "https://www.coursera.org"
+  title = "JLPT Certificate N5"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-01-19"
+  date_end = ""
+  description = ""
 
 +++
