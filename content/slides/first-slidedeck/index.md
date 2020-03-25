@@ -23,12 +23,10 @@ HIST 4806
 
 **WHAT IS A WEB ARCHIVE?**
 
-```
 {{%/* fragment */%}} 1. It can be a "digital archive" that preserves historical information in a digitized format {{%/* /fragment */%}}
 {{%/* fragment */%}} 2. A web archive can also act as a domain to preserve data kept online (websites) {{%/* /fragment */%}}
 {{%/* fragment */%}} How can a web archive be created? {{%/* /fragment */%}}
 {{%/* fragment */%}} * WebARChive (WARC) files {{%/* /fragment */%}}
-```
 
 ---
 
