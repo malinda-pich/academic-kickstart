@@ -17,5 +17,12 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-+++
+  [[experience]]
+  title = "Research Assistant"
+  company = "Local Engagement Refugee Research Network"
+  company_url = ""
+  location = "Carleton University"
+  date_start = "2019-09"
+  date_end = "2019-10"
+  description = """
+  """
