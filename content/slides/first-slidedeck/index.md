@@ -12,3 +12,19 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
+
+Web Archives
+Malinda Pich
+HIST 4806
+
+---
+
+What is a web archive?
+1. It can be a "digital archive" that preserves historical information in a digitized format
+2. A web archive can also act as a domain to preserve data kept online (websites)
+
+How can a web archive be created?
+* WebARChive (WARC) files 
+
+---
+
