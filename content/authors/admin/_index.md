@@ -24,7 +24,7 @@ interests:
 - Singing
 - Photography
 - Video games 
-- Learning new languages: currently learning Japanese
+- Learning new languages
 
 education:
   courses:
