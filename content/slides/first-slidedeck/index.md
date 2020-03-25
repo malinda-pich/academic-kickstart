@@ -56,6 +56,14 @@ An internet archive that allows its users to view websites that have been captur
 
 **THE WAYBACK MACHINE**
 
+Try typing in the URL of a website. You will be able to see a snapshot of that website across time.
+
+I typed in carleton.ca and this is where I was taken after I clicked enter
+
+---
+
+**THE WAYBACK MACHINE**
+
 “This system is limited: not only do visitors largely need to
 know the URL or exact phrase in the first place, they are also
 limited to individual readings of single webpages”
@@ -72,7 +80,7 @@ limited to individual readings of single webpages”
 
 **ARTICLE**
 
-*Building Community and Tools for Analyzing Web Archives Through Datathons
+Building Community and Tools for Analyzing Web Archives Through Datathons
 
 * This article talks about the need for studying web archives in order to better understand the social and cultural dimensions associated with the digital age 
 
@@ -80,7 +88,7 @@ limited to individual readings of single webpages”
 
 ---
 
-*Building Community and Tools for Analyzing Web Archives Through Datathons 
+Building Community and Tools for Analyzing Web Archives Through Datathons 
 
 * There were many collaborators from various disciplines involved in the datathon that ranged from individuals in social sciences, to humanities and digital archivists among others.
 
