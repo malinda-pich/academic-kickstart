@@ -21,10 +21,9 @@ organizations:
 bio: History Major
 
 interests:
-- Singing
-- Photography
-- Video games
-- Cosplay
+- Postcolonial studies
+- Environmental studies 
+- History of migration and diaspora
 - Learning new languages
 
 education:
@@ -56,4 +55,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a fourth year student majoring in History. I am currently pursuing an Honours Research Project that documents oral histories of Cambodian Refugees who immigrated to Canada during the late 1970s to 1980s.
+I am a fourth year student majoring in History. I am currently pursuing an Honours Research Project that documents oral histories of Cambodian Refugees who immigrated to Canada during the late 1970s to 1980s. Some of my interests and hobbies include singing, photography, video games, and cosplay. 
