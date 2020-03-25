@@ -23,12 +23,12 @@ HIST 4806
 
 **WHAT IS A WEB ARCHIVE?**
 
-1. It can be a "digital archive" that preserves historical information in a digitized format
-2. A web archive can also act as a domain to preserve data kept online (websites)
-
-How can a web archive be created?
-
-* WebARChive (WARC) files 
+```
+{{%/* fragment */%}} 1. It can be a "digital archive" that preserves historical information in a digitized format {{%/* /fragment */%}}
+{{%/* fragment */%}} 2. A web archive can also act as a domain to preserve data kept online (websites) {{%/* /fragment */%}}
+{{%/* fragment */%}} How can a web archive be created? {{%/* /fragment */%}}
+{{%/* fragment */%}} * WebARChive (WARC) files {{%/* /fragment */%}}
+```
 
 ---
 
@@ -64,11 +64,15 @@ limited to individual readings of single webpages”
 
 Building Community and Tools for Analyzing Web Archives Through Datathons
 
-This article talks about the need for studying web archives in order to better understand the social and cultural dimensions associated with the digital age 
+* This article talks about the need for studying web archives in order to better understand the social and cultural dimensions associated with the digital age 
 
-This was achieved through community building practices in the form of Datathons 
+* This was achieved through community building practices in the form of Datathons 
 
-There were many collaborators from various disciplines involved in the datathon that ranged from individuals in social sciences, to humanities and digital archivists among others.
+---
+
+Building Community and Tools for Analyzing Web Archives Through Datathons 
+
+* There were many collaborators from various disciplines involved in the datathon that ranged from individuals in social sciences, to humanities and digital archivists among others.
 
 ---
 
