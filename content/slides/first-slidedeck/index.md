@@ -47,6 +47,8 @@ By creating web archives using the WARC file format, whole websites including me
 
 [Link to a Video Explaining Web Archives](https://archive.org/embed/IntroToAIT)
 
+This video was found on the Archive-It website. They provide web archiving services for a variety of organizations. 
+
 ---
 
 **THE WAYBACK MACHINE**
@@ -54,8 +56,6 @@ By creating web archives using the WARC file format, whole websites including me
 An internet archive that allows its users to view websites that have been captured over time
 
 [Link to the Wayback Machine](https://web.archive.org/)
-
-This video was found on the Archive-It website. They provide web archiving services for a variety of organizations. 
 
 ---
 
