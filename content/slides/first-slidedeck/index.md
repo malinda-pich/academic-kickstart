@@ -113,6 +113,8 @@ The Datathons brought together people from a variety of disciplines. In what way
 
 ---
 
+**ARTICLE**
+
 Archives Strengthening Historical Narratives: Sharing Digital and Linked Data Resources for Broader Reach and Sustainability
 
 * This article focuses on the development of a web archive that documents the cultural history of the Texas Coastal Bend ranching communities 
