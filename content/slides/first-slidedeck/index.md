@@ -91,7 +91,7 @@ limited to individual readings of single webpages”
 
 **ARTICLE**
 
-Building Community and Tools for Analyzing Web Archives Through Datathons
+"Building Community and Tools for Analyzing Web Archives Through Datathons"
 
 * This article talks about the need for studying web archives in order to better understand the social and cultural dimensions associated with the digital age 
 
@@ -99,7 +99,7 @@ Building Community and Tools for Analyzing Web Archives Through Datathons
 
 ---
 
-Building Community and Tools for Analyzing Web Archives Through Datathons 
+"Building Community and Tools for Analyzing Web Archives Through Datathons" 
 
 * There were many collaborators from various disciplines involved in the datathon that ranged from individuals in social sciences, to humanities and digital archivists among others.
 
@@ -115,7 +115,7 @@ The Datathons brought together people from a variety of disciplines. In what way
 
 **ARTICLE**
 
-Archives Strengthening Historical Narratives: Sharing Digital and Linked Data Resources for Broader Reach and Sustainability
+"Archives Strengthening Historical Narratives: Sharing Digital and Linked Data Resources for Broader Reach and Sustainability"
 
 * This article focuses on the development of a web archive that documents the cultural history of the Texas Coastal Bend ranching communities 
 
@@ -123,7 +123,7 @@ Archives Strengthening Historical Narratives: Sharing Digital and Linked Data Re
 
 ---
 
-Archives Strengthening Historical Narratives: Sharing Digital and Linked Data Resources for Broader Reach and Sustainability
+"Archives Strengthening Historical Narratives: Sharing Digital and Linked Data Resources for Broader Reach and Sustainability"
 
 * This collection was particularly concerned with linking themes together to make everything more accessible: 
 
