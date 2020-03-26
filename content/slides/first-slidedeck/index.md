@@ -87,6 +87,8 @@ limited to individual readings of single webpages”
 
 * Are there any ethical issues associated with web archiving? Can you think of any examples of how web archiving could generate privacy issues?
 
+* Can API's be used for web archiving? Are there any pros or cons associated with it? 
+
 ---
 
 **ARTICLE**
