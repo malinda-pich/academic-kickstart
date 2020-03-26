@@ -15,3 +15,5 @@ tags:
 Dear class,
 
 Here is a link to my presentation: https://malinda-pich.netlify.com/slides/first-slidedeck/
+
+Published a bit late--my apologies. 
