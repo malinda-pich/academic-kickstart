@@ -30,6 +30,6 @@ subtitle = ""
   icon = "coffee"
   icon_pack = "fas"
   name = "Ruminating"
-  description = "100%"
+  description = "About nonsense 100% of the time"
   
 +++
