@@ -41,7 +41,7 @@ How can a web archive be created?
 
 So how does a web archive get created? 
 
-By creating web archives using the WARC file format, whole websites including metadata can be preserved in one single file!
+By creating web archives using the WARC file format, whole websites including its corresponding metadata can be preserved in one single file!
 
 ---
 
