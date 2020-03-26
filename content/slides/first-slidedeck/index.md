@@ -135,6 +135,8 @@ The Datathons brought together people from a variety of disciplines. In what way
 
 **DISCUSSION QUESTIONS**
 
+The article talks about using Linked open data or a linked data approach. What sort of advantage does using a linked data approach offer? Do you think it works well with the Texas Coastal Bend collection? 
+
 ---
 
 **OTHER RESOURCES**
