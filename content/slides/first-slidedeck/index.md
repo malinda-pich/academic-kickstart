@@ -109,7 +109,7 @@ Building Community and Tools for Analyzing Web Archives Through Datathons
 
 This article is quite clear about the large possibilities associated with studying web archives, but on the other hand, it mentions the limitations of the Wayback Machine. Although there are limitations, can you think of an area concerning social and cultural history where it can be useful to look at that platform?
 
-The Datathons brought together people from a variety of disciplines. In what ways do you think Historians can offer insights on analyzing web archives? Does the article give insight to this? 
+The Datathons brought together people from a variety of disciplines. In what ways do you think Historians can offer insights on analyzing web archives? Does the article give any insight to this? 
 
 ---
 
