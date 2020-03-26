@@ -12,4 +12,6 @@ tags:
   - webarchive
   - news
 ---
-A link to my presentation: 
+Dear class,
+
+Here is a link to my presentation: https://malinda-pich.netlify.com/slides/first-slidedeck/
