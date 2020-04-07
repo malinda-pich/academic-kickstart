@@ -13,6 +13,6 @@ tags:
   - news
 ---
 
-{{< figure library="true" src="txtfile.jpg" title="Snapshot of the organized work" lightbox="true" >}}
+{{< figure library="true" src="txtfile.jpg" title="A lot of unogranized information" lightbox="true" >}}
 
 The photos that my group took at the nature museum have been transcribed by a group member using AZURE. It is really interesting how the program is able to take the text off of the photos and allow me to copy and paste it into excel. Organizing it looks like it will take some time since there is a lot of data, both qualitative and quantitative. 
