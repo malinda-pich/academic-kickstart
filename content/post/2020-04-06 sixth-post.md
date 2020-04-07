@@ -12,3 +12,7 @@ tags:
   - excel
   - news
 ---
+
+{{< figure library="true" src="excelfile.jpg" title="Snapshot of the organized work" lightbox="true" >}}
+
+I have been spending the last week trying to organize the txt files that were sent by a classmate that I am working with. I completed the organization today and our group will be moving onto creating the API now that we have sorted everything out. It took a long time to cross-reference the txt file with the actual photographs, but once I got started it became clear how my tables should be organized. I am looking forward to seeing how the final product will take shape! Despite the fact that the COVID-19 pandemic has interrupted our progress in digitizing the entire collection from the museum of nature, I think that we have made a lot of progress and put in a lot of time trying to get this completed. 
