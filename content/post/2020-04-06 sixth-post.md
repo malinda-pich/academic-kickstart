@@ -1,6 +1,6 @@
 ---
 date: 2020-04-06
-title: Devlog 6 - Cross-referencing txt files and photos  
+title: Devlog 6 - Cross-Referencing TXT Files and Photos  
 summary: Figuring out how to work on the new task
 
 # optional header image (relative to 'static/img/' folder).
